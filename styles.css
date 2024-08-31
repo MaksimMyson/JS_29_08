@@ -1,0 +1,27 @@
+/* Завдання 1 */
+#div-1 { border: 1px solid #000; }
+
+/* Завдання 2 */
+.bg-orange { background-color: orange; }
+#div-2 { width: 100px; height: 100px; border: 1px solid #000; }
+
+/* Завдання 3 */
+.out-3 { margin-top: 10px; }
+
+/* Завдання 4 */
+.bg-red { background-color: red; }
+.out-4 { width: 50px; height: 50px; border: 1px solid #000; margin: 5px; }
+
+/* Завдання 5 */
+.bg-blue { background-color: blue; }
+.out-5 { width: 50px; height: 50px; border: 1px solid #000; margin: 5px; cursor: pointer; }
+
+/* Завдання 6 */
+#display { margin: 0 10px; }
+
+/* Завдання 7 */
+.color-block { width: 50px; height: 50px; border: 1px solid #000; margin: 5px; display: inline-block; }
+
+/* Завдання 8 */
+.color-box { width: 50px; height: 50px; display: inline-block; cursor: pointer; border: 1px solid #000; }
+#text { font-size: 20px; margin-top: 10px; }
